@@ -1,9 +1,13 @@
 {
-  "version": "3.5.5",
-  "build": 79,
-  "apkUrl": "",
-  "sha256": "",
+  "channel": "dev",
+  "version": "3.5.7",
+  "build": 81,
+  "apkUrl": "https://github.com/marekmoravansky42/stavby-pro-updates/releases/download/v3.5.7/STAVBY_PRO_3.5.7_DEV_MOBILE_UI_81.apk",
+  "sizeBytes": 69434094,
+  "mandatory": false,
+  "sha256": "2c513c0fa19a12577210765c576dd260e195f764eb02bef03c3dd6190d05d89e",
   "notes": [
-    "Prvé testovacie vydanie Update Center."
+    "Prvé testovacie online vydanie cez GitHub Update Center.",
+    "Overenie stiahnutia APK a spustenia inštalácie."
   ]
 }
