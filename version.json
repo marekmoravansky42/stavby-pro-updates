@@ -1,14 +1,7 @@
 {
-  "channel": "dev",
-  "version": "3.5.9",
-  "build": 83,
-  "apkUrl": "https://github.com/marekmoravansky42/stavby-pro-updates/releases/download/v3.5.9/STAVBY_PRO_3.5.9_DEV_MOBILE_UI_83.apk",
+  "version": "3.5.8",
+  "build": 82,
+  "apkUrl": "",
   "sizeBytes": 69434094,
-  "mandatory": false,
-  "sha256": "fa8c6f7697ca4feba2d402e52e767e07cfb8f2f8e3e00a7aa9b19557b37bcd29",
-  "notes": [
-    "Finálny test OTA aktualizácie po oprave FileProvider.",
-    "Overenie stiahnutia APK a otvorenia Android inštalátora.",
-    "Bez nových funkčných zmien."
-  ]
+  "sha256": "18ab1cf8de3b03695db8fefe20ec47960e576654a95979472ad71836ce7fb25c"
 }
