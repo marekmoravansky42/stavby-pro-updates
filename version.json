@@ -1,7 +1,7 @@
 {
-  "version": "3.5.9",
-  "build": 83,
-  "apkUrl": "https://github.com/marekmoravansky42/stavby-pro-updates/releases/download/v3.5.9/STAVBY_PRO_3.5.9_BUILD_83.apk",
-  "sizeBytes": 69434094,
-  "sha256": "26b7f00ae91bcd1aa530955adc19f621a843423a2df31177b948115142007bdf"
+  "version": "3.5.10",
+  "build": 84,
+  "apkUrl": "https://github.com/marekmoravansky42/stavby-pro-updates/releases/download/v3.5.10/STAVBY_PRO_3.5.10_BUILD_84.apk",
+  "sizeBytes": 69516930,
+  "sha256": "01fb6efb21a123bebe1c11a23958fe6f539de9b85d520e2a6c2cbe9777efecc5"
 }
