@@ -1,7 +1,7 @@
 {
-  "version": "3.5.43",
-  "build": 2026072417,
-  "apkUrl": "https://github.com/marekmoravansky42/stavby-pro-updates/releases/download/v3.5.43/STAVBY_PRO_3.5.43_RELEASE_BUILD_117_UPDATE_DETECTION_FIX.apk",
-  "sizeBytes": 71078977,
-  "sha256": "46f8fd160b3a783b7efc6dabb54db1058ec045f21bbfb0c3ce25618660b463bb"
+  "version": "3.8.108",
+  "build": 482,
+  "apkUrl": "https://github.com/marekmoravansky42/stavby-pro-updates/releases/download/v3.8.108/STAVBY_PRO_3.8.108_BUILD_482.apk",
+  "sizeBytes": 77596029,
+  "sha256": "6ee68e7456f4e74e48ff6900a40eec30f71e0879b0994052264a5c68f0ea689a"
 }
