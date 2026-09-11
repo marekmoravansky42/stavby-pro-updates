@@ -1,13 +1,13 @@
 {
-  "channel": "final",
-  "version": "3.8.108",
-  "build": 482,
-  "apkUrl": "https://github.com/marekmoravansky42/stavby-pro-updates/releases/download/v3.8.108/STAVBY_PRO_3.8.108_BUILD_482.apk",
-  "sizeBytes": 77596029,
+  "channel": "dev",
+  "version": "3.8.110",
+  "build": 2026082407,
+  "apkUrl": "https://github.com/marekmoravansky42/stavby-pro-updates/releases/download/dev-e2e-3.8.110/STAVBY_PRO_3.8.110_BUILD_484.apk",
+  "sizeBytes": 77612481,
+  "sha256": "e650e334b52027b8364fbaeaa82818a60cdd1026fa86ceeda265a9f85e60dbdf",
+  "windowsZipUrl": "https://github.com/marekmoravansky42/stavby-pro-updates/releases/download/dev-e2e-3.8.110/STAVBY_PRO_3.8.110_DEV_WINDOWS_UPDATE.zip",
+  "windowsSizeBytes": 22924498,
+  "windowsSha256": "22ec18d924d559972868543a9f85001f0df55dd51752814c5855b06b9ad88013",
   "mandatory": false,
-  "sha256": "2f9b80910db2b690a1cddb1a085fa4b04cdbb4743906dec43ba0f93fb0dfb28d",
-  "notes": [
-    "Mobil a Windows desktop bez zmeny.",
-    "Zachované full-width rozloženie, prirodzená výška a nezrezaný viacriadkový text z FIX287."
-  ]
+  "notes": "DEV-only Windows updater E2E target from 3.8.109 to 3.8.110."
 }
