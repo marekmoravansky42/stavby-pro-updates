@@ -1,13 +1,20 @@
 {
   "channel": "final",
   "version": "3.8.117",
-  "build": 491,
+  "build": 2026091501,
+  "releaseBuild": 491,
   "apkUrl": "https://github.com/marekmoravansky42/stavby-pro-updates/releases/download/v3.8.117/STAVBY_PRO_3.8.117_BUILD_491.apk",
   "sizeBytes": 79217588,
   "mandatory": false,
   "sha256": "80569aa104a529ba96779c124a2cef11373ccec4dd22d8bbefa95b60a55e1873",
+  "windowsZipUrl": "https://github.com/marekmoravansky42/stavby-pro-updates/releases/download/v3.8.117/STAVBY_PRO_3.8.117_BUILD_491_WINDOWS.zip",
+  "windowsSizeBytes": 24537842,
+  "windowsSha256": "0ea098a0e6338156eb4b61a5a27288bbba661714ea9a032880772ba0415b8123",
   "notes": [
-    "Mobil a Windows desktop bez zmeny.",
-    "Zachované full-width rozloženie, prirodzená výška a nezrezaný viacriadkový text z FIX287."
+    "Nová karta Tankovanie s mesačným a ročným súhrnom, vyplatením a synchronizáciou log čerpacích staníc.",
+    "Zúčtovací mesiac stavby umožňuje zaradiť celú stavbu do vybraného mesiaca.",
+    "Cenník uchováva sadzbu pri každej stavbe a umožňuje upraviť už vytvorené stavby za mesiac.",
+    "FINAL aktualizácie zobrazujú Novinky a Opravy.",
+    "Build bol úspešne otestovaný na Windows a Android."
   ]
 }
