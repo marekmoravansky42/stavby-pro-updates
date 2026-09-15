@@ -1,11 +1,11 @@
 {
   "channel": "final",
-  "version": "3.8.116",
-  "build": 490,
-  "apkUrl": "https://github.com/marekmoravansky42/stavby-pro-updates/releases/download/v3.8.116/STAVBY_PRO_3.8.116_BUILD_490.apk",
-  "sizeBytes": 78856488,
+  "version": "3.8.117",
+  "build": 491,
+  "apkUrl": "https://github.com/marekmoravansky42/stavby-pro-updates/releases/download/v3.8.117/STAVBY_PRO_3.8.117_BUILD_491.apk",
+  "sizeBytes": 79217588,
   "mandatory": false,
-  "sha256": "8e5b9b3d601000e9943012316e1cbf0eda675b2e7939886130966ac3cdacd58a",
+  "sha256": "80569aa104a529ba96779c124a2cef11373ccec4dd22d8bbefa95b60a55e1873",
   "notes": [
     "Mobil a Windows desktop bez zmeny.",
     "Zachované full-width rozloženie, prirodzená výška a nezrezaný viacriadkový text z FIX287."
