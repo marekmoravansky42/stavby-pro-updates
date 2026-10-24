@@ -1,10 +1,19 @@
 {
   "channel": "final",
   "version": "3.8.118",
-  "build": 497,
-  "apkUrl": "",
-  "sizeBytes": 82973783,
+  "build": 2026102401,
+  "releaseBuild": 497,
+  "apkUrl": "https://github.com/marekmoravansky42/stavby-pro-updates/releases/download/v3.8.118/STAVBY_PRO_3.8.118_BUILD_497.apk",
+  "sizeBytes": 82856847,
   "mandatory": false,
-  "sha256": "61bec985559572b223660c7cca2898ba574b0c21352f9a2cffcbdd93f8899506",
-  "notes": []
+  "sha256": "d00137b95b895b13e29e46770b9e9b50c2029e4cd40ec8d7e6d30b48ce9f78b0",
+  "windowsZipUrl": "https://github.com/marekmoravansky42/stavby-pro-updates/releases/download/v3.8.118/STAVBY_PRO_3.8.118_BUILD_497_WINDOWS.zip",
+  "windowsSizeBytes": 25168658,
+  "windowsSha256": "e661263a6346ce778d7d83107ab4da1528d31110be8ff028da5fbe24ca9af1b6",
+  "notes": [
+    "Pridané Ubytovanie s pobytmi pre jednotlivé osoby, mesačným a ročným súhrnom a synchronizáciou.",
+    "PDF Export Pro umožňuje vybrať konkrétne stavby a obsah exportu.",
+    "Upravené rozloženie a výšky polí na Windows, tablete a mobile.",
+    "Opravené ukladanie cenníka a ďalšie zistené chyby."
+  ]
 }
