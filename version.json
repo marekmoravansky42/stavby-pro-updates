@@ -1,8 +1,8 @@
 {
   "channel": "final",
   "version": "3.8.118",
-  "build": 535,
-  "apkUrl": "https://github.com/marekmoravansky42/stavby-pro-updates/releases/download/v3.8.118/STAVBY_PRO_3.8.118_BUILD_535.apk",
+  "build": 536,
+  "apkUrl": "https://github.com/marekmoravansky42/stavby-pro-updates/releases/download/v3.8.118/STAVBY_PRO_3.8.118_BUILD_536.apk",
   "sizeBytes": 82906223,
   "mandatory": false,
   "sha256": "7e09b0a0dee1dd93b99c2165b2479ea82a1e5d2d96b0045f16a9d93e1544715a",
