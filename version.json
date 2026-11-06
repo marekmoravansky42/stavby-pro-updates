@@ -1,19 +1,21 @@
 {
   "channel": "final",
   "version": "3.8.118",
-  "build": 2026102401,
-  "releaseBuild": 497,
-  "apkUrl": "https://github.com/marekmoravansky42/stavby-pro-updates/releases/download/v3.8.118/STAVBY_PRO_3.8.118_BUILD_497.apk",
-  "sizeBytes": 82856847,
+  "build": 535,
+  "apkUrl": "https://github.com/marekmoravansky42/stavby-pro-updates/releases/download/v3.8.118/STAVBY_PRO_3.8.118_BUILD_535.apk",
+  "sizeBytes": 82906223,
   "mandatory": false,
-  "sha256": "d00137b95b895b13e29e46770b9e9b50c2029e4cd40ec8d7e6d30b48ce9f78b0",
-  "windowsZipUrl": "https://github.com/marekmoravansky42/stavby-pro-updates/releases/download/v3.8.118/STAVBY_PRO_3.8.118_BUILD_497_WINDOWS.zip",
-  "windowsSizeBytes": 25168658,
-  "windowsSha256": "e661263a6346ce778d7d83107ab4da1528d31110be8ff028da5fbe24ca9af1b6",
+  "sha256": "7e09b0a0dee1dd93b99c2165b2479ea82a1e5d2d96b0045f16a9d93e1544715a",
   "notes": [
-    "Pridané Ubytovanie s pobytmi pre jednotlivé osoby, mesačným a ročným súhrnom a synchronizáciou.",
-    "PDF Export Pro umožňuje vybrať konkrétne stavby a obsah exportu.",
-    "Upravené rozloženie a výšky polí na Windows, tablete a mobile.",
-    "Opravené ukladanie cenníka a ďalšie zistené chyby."
+    "Build: 472",
+    "Version: 3.8.98 DEV",
+    "Scope: Stavby mobile hero action buttons only.",
+    "No icon, color, layout, or action behavior changes.",
+    "Názvy štyroch tlačidiel ostávajú nezmenené.",
+    "Na úzkom mobile sa text tlačidiel drží na jednom riadku a iba podľa potreby sa zmenší cez FittedBox(scaleDown).",
+    "Zachované rozmery tlačidiel, ikony, farby a akcie.",
+    "Line-height 1.15 ponecháva rezervu proti orezaniu spodku písma.",
+    "Tablet/Windows layout sa funkčne nemení.",
+    "Keeps FIX276 separate mobile PDF preview window."
   ]
 }
