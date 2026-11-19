@@ -1,24 +1,13 @@
 {
   "channel": "final",
   "version": "3.8.118",
-  "build": 585,
-  "apkUrl": "https://github.com/marekmoravansky42/stavby-pro-updates/releases/download/v3.8.118/STAVBY_PRO_3.8.118_BUILD_585.apk",
+  "build": 586,
+  "apkUrl": "https://github.com/marekmoravansky42/stavby-pro-updates/releases/download/v3.8.118/STAVBY_PRO_3.8.118_BUILD_586.apk",
   "sizeBytes": 85479419,
   "mandatory": false,
-  "sha256": "46b9c5736c2533c827ba71d9f2abf8468a2263c13b15b2973f727991795efdf7",
+  "sha256": "bdfa54a6d699996d6989dfb7c0dfc294ad0cd3fa0e8763f45b0d2adb5229070c",
   "notes": [
-    "Zmenené oblasti: faktúry, kontakty alebo nastavenia firmy.",
     "Zmenené oblasti: fotografie, náhľady alebo BeeStation.",
-    "Zmenená oblasť synchronizácie.",
-    "Zmenená oblasť ubytovania.",
-    "Zmenená oblasť tankovania.",
-    "Zmenená oblasť exportu.",
-    "Zmenená oblasť stavieb.",
-    "Zmenená oblasť prehľadov.",
-    "Zmenená oblasť príloh.",
-    "Zmenená oblasť nastavení."
-  ],
-  "windowsZipUrl": "https://github.com/marekmoravansky42/stavby-pro-updates/releases/download/v3.8.118/STAVBY_PRO_3.8.118_BUILD_585_WINDOWS.zip",
-  "windowsSizeBytes": 25540934,
-  "windowsSha256": "313f39d2c06526163ee3a9d6c0c5c46f9e3470f004bfd13ae61c6ab259451d0e"
+    "Zmenená oblasť synchronizácie."
+  ]
 }
