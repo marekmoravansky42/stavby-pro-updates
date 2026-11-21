@@ -1,15 +1,15 @@
 {
   "channel": "final",
   "version": "3.8.118",
-  "build": 595,
-  "apkUrl": "https://github.com/marekmoravansky42/stavby-pro-updates/releases/download/v3.8.118/STAVBY_PRO_3.8.118_BUILD_595.apk",
+  "build": 596,
+  "apkUrl": "https://github.com/marekmoravansky42/stavby-pro-updates/releases/download/v3.8.118/STAVBY_PRO_3.8.118_BUILD_596.apk",
   "sizeBytes": 85495803,
   "mandatory": false,
-  "sha256": "eb6453061b8e7e34a23640db5c2abbeadb661bd0a98bc2ce0c29f95c3107ae7c",
+  "sha256": "22e2cc29fa327ac9449603cb319b11be966247b9090e93b2d75c641b5bb6de23",
   "notes": [
     "Zmenené oblasti: fotografie, náhľady alebo BeeStation."
   ],
-  "windowsZipUrl": "https://github.com/marekmoravansky42/stavby-pro-updates/releases/download/v3.8.118/STAVBY_PRO_3.8.118_BUILD_595_WINDOWS.zip",
-  "windowsSizeBytes": 25142919,
-  "windowsSha256": "f5c77b0a6dd2ee742a87bfa60fafde37d48c272f6eb690d608363872089c28c2"
+  "windowsZipUrl": "https://github.com/marekmoravansky42/stavby-pro-updates/releases/download/v3.8.118/STAVBY_PRO_3.8.118_BUILD_596_WINDOWS.zip",
+  "windowsSizeBytes": 25144258,
+  "windowsSha256": "188b078245ef339be26a36a467a586cea9664deb9b9ae409beda154b4d09d7e0"
 }
