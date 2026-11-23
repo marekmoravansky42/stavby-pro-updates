@@ -1,15 +1,15 @@
 {
   "channel": "final",
   "version": "3.8.118",
-  "build": 600,
-  "apkUrl": "https://github.com/marekmoravansky42/stavby-pro-updates/releases/download/v3.8.118/STAVBY_PRO_3.8.118_BUILD_600.apk",
+  "build": 601,
+  "apkUrl": "https://github.com/marekmoravansky42/stavby-pro-updates/releases/download/v3.8.118/STAVBY_PRO_3.8.118_BUILD_601.apk",
   "sizeBytes": 85741551,
   "mandatory": false,
-  "sha256": "7ad5a39d71facdca8d62450c9a340645df441c2d01e19479ad9e2fa1c325a5a4",
+  "sha256": "ffa15ab8020c4bd8fc0010380848b14d4dcc662e7b43427416c711334205bf43",
   "notes": [
     "Zmenená oblasť synchronizácie."
   ],
-  "windowsZipUrl": "https://github.com/marekmoravansky42/stavby-pro-updates/releases/download/v3.8.118/STAVBY_PRO_3.8.118_BUILD_600_WINDOWS.zip",
-  "windowsSizeBytes": 25189537,
-  "windowsSha256": "fbf90bc34b6c776c14885b1d44487e43ce5a8ae33fb2e07e425ab8324f536368"
+  "windowsZipUrl": "https://github.com/marekmoravansky42/stavby-pro-updates/releases/download/v3.8.118/STAVBY_PRO_3.8.118_BUILD_601_WINDOWS.zip",
+  "windowsSizeBytes": 25189400,
+  "windowsSha256": "d27f0a05ab90117fefd29b15c9e0e93022abee601775b38f5de98a20bf754b23"
 }
