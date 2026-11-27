@@ -1,15 +1,22 @@
 {
   "channel": "final",
   "version": "3.8.118",
-  "build": 601,
-  "apkUrl": "https://github.com/marekmoravansky42/stavby-pro-updates/releases/download/v3.8.118/STAVBY_PRO_3.8.118_BUILD_601.apk",
-  "sizeBytes": 85741551,
+  "build": 604,
+  "apkUrl": "https://github.com/marekmoravansky42/stavby-pro-updates/releases/download/v3.8.118/STAVBY_PRO_3.8.118_BUILD_604.apk",
+  "sizeBytes": 86626499,
   "mandatory": false,
-  "sha256": "ffa15ab8020c4bd8fc0010380848b14d4dcc662e7b43427416c711334205bf43",
+  "sha256": "7d2873a316955b4a1521352398c0663b8a6750511ffd0fe9bd2049c7c7489630",
   "notes": [
-    "Zmenená oblasť synchronizácie."
+    "Materiál v detaile stavby na PC a tablete: predvolený zoznam, vlastné položky, jednotky a množstvá pre jednotlivé stavby.",
+    "Spoločné položky a poradie materiálu pre stavby; obrázky položiek s prilepením zo schránky a prenosom cez BeeStation.",
+    "Export vyplneného materiálu do PDF a Excelu s priečinkami podľa roku stavby a opakovaným použitím názvu súboru.",
+    "Samostatný výber stavieb s vyplneným materiálom a spoločné PDF s náhľadom pred zdieľaním.",
+    "Označenie vyplneného materiálu na karte stavby.",
+    "Automatické ukladanie množstiev materiálu a zachovanie práve upravovaného textu pri obnovení obrazovky.",
+    "Dostupnejšie tlačidlá materiálu a priestor pre vloženie textu pri spodných položkách.",
+    "Zmeny v automatickej synchronizácii stavieb a obrázkov materiálu."
   ],
-  "windowsZipUrl": "https://github.com/marekmoravansky42/stavby-pro-updates/releases/download/v3.8.118/STAVBY_PRO_3.8.118_BUILD_601_WINDOWS.zip",
-  "windowsSizeBytes": 25189400,
-  "windowsSha256": "d27f0a05ab90117fefd29b15c9e0e93022abee601775b38f5de98a20bf754b23"
+  "windowsZipUrl": "https://github.com/marekmoravansky42/stavby-pro-updates/releases/download/v3.8.118/STAVBY_PRO_3.8.118_BUILD_604_WINDOWS.zip",
+  "windowsSizeBytes": 25309846,
+  "windowsSha256": "9ec163acfda3b6840db5d163fdd46311b6c60ce1cfe3b84ded6424e5beded9a7"
 }
